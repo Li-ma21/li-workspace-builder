@@ -1,2 +1,24 @@
-# li-workspace-builder
-Trae skill - ?????:????? UI + Supabase ???? + PWA ????
+# Li 宸ヤ綔鍙?(li-workspace-builder)
+
+涓€涓?Trae Skill锛岀敤浜庢瀯寤哄崟鏂囦欢涓汉宸ヤ綔鍙板簲鐢ㄣ€?
+## 鍔熻兘鐗规€?
+- 鑾叞杩壊绯?UI - 缁熶竴閰嶈壊鏂规锛屾俯鍜岃垝閫?- 椤圭洰灞傜骇绠＄悊 - 澶氶」鐩嫭绔嬬鐞嗚鍒掋€乀ODO銆佸蹇?- 鍏ㄥ眬浠诲姟鏃ュ巻 - 棣栭〉鏃ュ巻鐪嬫澘 + 褰撴棩璇︽儏
+- Supabase 浜戠鍚屾 - 涓诲瓨鍌紝鏈湴 localStorage 绂荤嚎鍥為€€
+- PWA 绂荤嚎鍙敤 - Service Worker 缂撳瓨锛屽彲娣诲姞鍒版墜鏈轰富灞忓箷
+- 澶囦唤/鎭㈠ - JSON 瀵煎嚭瀵煎叆锛屾暟鎹畨鍏ㄥ彲鎺?
+## 浣跨敤鏂规硶
+
+鍦?Trae 涓姞杞芥 skill 鍚庢墽琛屽嵆鍙敓鎴愬畬鏁寸殑宸ヤ綔鍙板簲鐢ㄣ€?
+## 浠撳簱缁撴瀯
+
+`
+鈹溾攢鈹€ SKILL.md              # Skill 瀹氫箟鏂囦欢
+鈹斺攢鈹€ examples/
+    鈹溾攢鈹€ index.html         # 杩愯绀轰緥锛堝崟鏂囦欢搴旂敤锛?    鈹斺攢鈹€ sw.js              # Service Worker
+`
+
+## 閮ㄧ讲寤鸿
+
+1. 灏?index.html 鍜?sw.js 涓婁紶鍒?Netlify Drop
+2. 鎵嬫満娴忚鍣ㄦ墦寮€ - 娣诲姞鍒颁富灞忓箷
+3. 妗岄潰鍑虹幇鑾叞杩壊 LI 鍥炬爣锛屽叏灞忔棤鍦板潃鏍忓惎鍔?
